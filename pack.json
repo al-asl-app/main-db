@@ -1,0 +1,11 @@
+{
+  "pack_id": "org.al_asl.main_ar_core",
+  "name": "Al-Asl Core Main Arabic Pack",
+  "version": "1.0.0",
+  "format_version": 1,
+  "author": "Mohamed Islam El Jirari",
+  "description": "Foundational Arabic text of the Holy Quran and Kutub al-Sittah with main Tashkeel.",
+  "language": "ar",
+  "type": "core",
+  "dependencies": []
+}
